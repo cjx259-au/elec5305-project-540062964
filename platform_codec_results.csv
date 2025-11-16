@@ -1,0 +1,1 @@
+file,platform,codec,bitrate,preLUFS,preTP,postLUFS,postTP,playbackGain_dB,playback_postLUFS,playback_postTP,overshoot_codec,overshoot_playback,deltaLUFS_codec,deltaLUFS_playback,maxGR_playback,meanGR_playback,grTimeRatio_playback
